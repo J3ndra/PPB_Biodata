@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PPB Biodata</string>
+    <string name="a11_2021_13319">A11.2021.13319</string>
+    <string name="hobby_badminton">Hobby : Badminton</string>
+    <string name="tentang_saya">Tentang saya</string>
+    <string name="desc">Halo, nama saya Junianto Endra Kartika dengan NIM A11.2021.13319. Saya adalah mahasiswa Universitas Dian Nuswantoro Semester 3, Fakultas Ilmu Komputer. Alasan saya masuk FIK karena saya menyukai dunia komputer seperti teknologi device, dan bahasa pemprogramman.</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+</resources>
